@@ -1,6 +1,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import { ArrowRight, Mail, Github, Linkedin, ExternalLink } from "lucide-react"
+import { MotionDiv } from 'framer-motion';
 
 import { Button } from "@/components/ui/button"
 import CursorTracer from "@/components/cursor-tracer"
